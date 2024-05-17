@@ -1,9 +1,10 @@
 import React from 'react'
+import ReviewInput from '../components/review/ReviewInput'
 
 function Review() {
   return (
     <div>
-      Review
+     <ReviewInput/> 
     </div>
   )
 }
